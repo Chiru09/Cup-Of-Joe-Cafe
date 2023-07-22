@@ -1,6 +1,8 @@
 # 🍵 Cup of Joe's Cafe
 
 The Central Perk Cafe is a retail management system (RMS) that handles basic cafe operations efficiently.
+
+## Bills
 ![image](https://github.com/Chiru09/Cup-Of-Joe-Cafe/assets/79917732/9e95a272-01e0-4201-b355-06a06c21a904)
 
 ## Features/Functions
