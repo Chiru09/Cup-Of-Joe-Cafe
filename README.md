@@ -1,4 +1,4 @@
-# 🍵 Cup of Joe's Cafe
+# Retail-Inventory-Management-System
 
 The Central Perk Cafe is a retail management system (RMS) that handles basic cafe operations efficiently.
 
